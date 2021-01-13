@@ -1,7 +1,7 @@
 # Desafio HTML & CS GoBeyond #2
 
 <p align="center">
-  <img src="https://ci6.googleusercontent.com/proxy/XoId25gPtSSRlwvez81sQTbUazlLOKelOUM4XkNuyuZIUrujGJM2gWxRG379NzBWHdFTAIUrQelmW8z_xd7pSBhhTQqCBVjFZ4UBCIdIsDrKfo2Q_Z1kkhDVimPUHg=s0-d-e1-ft#https://d335luupugsy2.cloudfront.net/cms/files/90499/1608129696/$lipt80asm9" height="180" width="300" alt="Unform" />
+  <img src="https://ci6.googleusercontent.com/proxy/XoId25gPtSSRlwvez81sQTbUazlLOKelOUM4XkNuyuZIUrujGJM2gWxRG379NzBWHdFTAIUrQelmW8z_xd7pSBhhTQqCBVjFZ4UBCIdIsDrKfo2Q_Z1kkhDVimPUHg=s0-d-e1-ft#https://d335luupugsy2.cloudfront.net/cms/files/90499/1608129696/$lipt80asm9" height="180" width="500" alt="Unform" />
 </p>
 
 ## Desafio do dia 2 do Go Beyond com HTML5 e CSS3
